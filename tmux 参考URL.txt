@@ -10,4 +10,5 @@ https://qiita.com/nmrmsys/items/03f97f5eabec18a3a18b
 # tmux基本まとめ (Mac用)
 https://qiita.com/ijiest/items/4a42e8543df373babcf2
 
-
+# 【tmux】設定ファイル(.tmux.conf)を編集し、即時反映・適用させる方法
+https://qiita.com/chatrate/items/ce09f2aaaba9869f2f7a
